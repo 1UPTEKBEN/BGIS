@@ -1,7 +1,7 @@
 # Ben's Gun Inventory Software
 
 ## Overview
-Ben's Gun Inventory Software is a Python-based application designed for Australian firearm owners. The software allows users to manage and track their gun inventory, licenses, ammunition stock, firearm categories, and more. It's a user-friendly tool to ensure compliance with Australian firearm laws and regulations.
+Ben's Gun Inventory Software is a Python-based application designed for Australian firearm owners. The software allows users to manage and track their gun inventory, licenses, ammunition stock, firearm categories, and more. It's a user-friendly tool.
 
 ## Features
 - **License Management**: Easily add and track firearm licenses.
